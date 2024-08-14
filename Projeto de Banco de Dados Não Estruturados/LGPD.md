@@ -8,7 +8,7 @@
 **SOBRE:** o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado
 **OBJETIVO:** proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
 
-Parágrafo único. As normas gerais contidas nesta Lei são de interesse nacional e devem ser observadas pela União, Estados, Distrito Federal e Municípios.      [(Incluído pela Lei nº 13.853, de 2019)](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13853.htm#art2)      [Vigência](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm#art65..)
+Parágrafo único. As normas gerais contidas nesta Lei são de interesse nacional e devem ser observadas pela União, Estados, Distrito Federal e Municípios. [(Incluído pela Lei nº 13.853, de 2019)](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13853.htm#art2)      [Vigência](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm#art65..)
 
 ## Art. 2º A disciplina da proteção de dados pessoais tem como fundamentos:
 

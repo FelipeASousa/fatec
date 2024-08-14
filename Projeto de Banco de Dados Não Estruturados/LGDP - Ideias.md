@@ -1,0 +1,3 @@
+
+- Registrar permissões de uso
+- 

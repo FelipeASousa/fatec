@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b02b1fe31cfeb91",
+        "id": "3ab15b800b023d35",
         "type": "tabs",
         "children": [
           {
-            "id": "b677c32fb155828f",
+            "id": "f8cc1ed1bef9d137",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto de Banco de Dados Não Estruturados/LGPD.md",
+                "file": "LABVI/AULA 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto de Banco de Dados Não Estruturados/LGPD.md",
+                "file": "LABVI/AULA 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto de Banco de Dados Não Estruturados/LGPD.md",
+                "file": "LABVI/AULA 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto de Banco de Dados Não Estruturados/LGPD.md"
+                "file": "LABVI/AULA 2.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,16 +145,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b677c32fb155828f",
+  "active": "f8cc1ed1bef9d137",
   "lastOpenFiles": [
-    "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
+    "LABVI/AULA 1.md",
+    "LABVI/AULA 2.md",
     "Projeto de Banco de Dados Não Estruturados/LGPD.md",
+    "LABVI/Informações Importantes.md",
+    "LABVI",
     "create a link.md",
+    "BD_NaoRelacional/Aula 1 - Bancos Não Relacionais.md",
+    "BD_NaoRelacional/Informações Importantes.md",
     "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
+    "Projeto de Banco de Dados Não Estruturados/LGDP - Ideias.md",
+    "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
     "().md",
     "^a.md",
-    "BD_NaoRelacional/Informações Importantes.md",
-    "BD_NaoRelacional/Aula 1 - Bancos Não Relacionais.md",
     "Untitled.canvas",
     "2024-08-08.md",
     "Projeto de Banco de Dados Não Estruturados",
