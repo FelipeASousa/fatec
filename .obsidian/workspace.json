@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LABVI/AULA 2.md",
+                "file": "Otimização e Balanceamento de BD/AULA 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LABVI/AULA 2.md",
-                "collapseAll": false,
+                "file": "Otimização e Balanceamento de BD/AULA 1.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LABVI/AULA 2.md",
+                "file": "Otimização e Balanceamento de BD/AULA 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LABVI/AULA 2.md"
+                "file": "Otimização e Balanceamento de BD/AULA 1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,8 +148,11 @@
   },
   "active": "f8cc1ed1bef9d137",
   "lastOpenFiles": [
-    "LABVI/AULA 1.md",
+    "Otimização e Balanceamento de BD/OTIMIZAÇÃO.md",
+    "Otimização e Balanceamento de BD/AULA 1.md",
     "LABVI/AULA 2.md",
+    "Otimização e Balanceamento de BD",
+    "LABVI/AULA 1.md",
     "Projeto de Banco de Dados Não Estruturados/LGPD.md",
     "LABVI/Informações Importantes.md",
     "LABVI",
