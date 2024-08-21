@@ -32,3 +32,20 @@
 **Classificação:** Dados utilizados para reconhecer padrões;
 **Regressão:** Dados utilizados para prever o valor de um atributo em um momento futuro
 **Agrupamento:** Dados agrupados de acordo com uma métrica de distância definida pelo usuário.
+
+#### Padrão de IA
+Treinar  = X maiúsculo
+Descobrir = y minúsculo
+
+* Não colocar colunas identificadoras em algoritmos
+* Se a quantidade de valores strings, inteiros for semelhante a ao número de registros eliminar coluna (max=50%)
+* Gerar cópias a medida do tratamento para economizar processamento
+
+#### Normalização
+- **Normalização**: Dados numéricos ficam no intervalo entre 0 e 1.
+	- Retirar outliers antes.
+- **Padronização**: Dados numéricos passam e a ter média 0 e desvio de padrão 1
+- **One hot enconding**: Gera uma coluna binária para cada valor.
+- **Discretização**: Transforma uma coluna numérica em categórica.
+- **Explode**: Divide um campo multivalorado em várias linhas
+- **Melt**: Transforma coluna em linhas

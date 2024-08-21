@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Otimização e Balanceamento de BD/AULA 2.md",
+                "file": "LABVI/AULA 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8b05f7708ee7b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LABVI/AULA 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Otimização e Balanceamento de BD/AULA 2.md",
+                "file": "LABVI/AULA 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Otimização e Balanceamento de BD/AULA 2.md",
+                "file": "LABVI/AULA 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Otimização e Balanceamento de BD/AULA 2.md"
+                "file": "LABVI/AULA 3.md"
               }
             }
           }
@@ -146,20 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8cc1ed1bef9d137",
+  "active": "f8b05f7708ee7b0a",
   "lastOpenFiles": [
-    "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
+    "LABVI/LINKS.md",
+    "LABVI/AULA 3.md",
+    "LABVI/AULA 2.md",
+    "LABVI/Informações Importantes.md",
+    "LABVI/AULA 1.md",
+    "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
     "Otimização e Balanceamento de BD/AULA 2.md",
+    "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
     "Projeto de Banco de Dados Não Estruturados/LGDP - Ideias.md",
     "Projeto de Banco de Dados Não Estruturados/LGPD.md",
     "Untitled.canvas",
-    "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
-    "LABVI/AULA 2.md",
     "Otimização e Balanceamento de BD/AULA 1.md",
     "Otimização e Balanceamento de BD/OTIMIZAÇÃO.md",
     "Otimização e Balanceamento de BD",
-    "LABVI/AULA 1.md",
-    "LABVI/Informações Importantes.md",
     "LABVI",
     "create a link.md",
     "BD_NaoRelacional/Aula 1 - Bancos Não Relacionais.md",

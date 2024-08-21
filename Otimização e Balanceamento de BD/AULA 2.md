@@ -1,2 +1,1 @@
-
 Índices reduzem a utilização do recurso de E/S do computador.
