@@ -17,7 +17,7 @@
 
 **Dicas**
 	- No Pré-Processamento, para valores nulos usar média/moda da coluna para preencher ou remover esses valores do modelo. Não válido para modelos de Regressão.
-	- Para OUTLIERS tirar o desvio padrão e a média.
+	- Para *OUTLIERS* tirar o desvio padrão e a média.
 
 ### Transformação
 

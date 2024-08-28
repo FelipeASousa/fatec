@@ -4,7 +4,7 @@
 - Toma em decisões em ambientes mutáveis e complexos
 - Explicar porque tomou uma decisão
 
-**IA FORTE:** Capaz de covimpreender.
+**IA FORTE:** Capaz de compreender.
 **IA FRACA**: Sistemas que agem de forma inteligente em domínios limitados.
 
 **Machine Learning (Aprendizado de Máquina)**: Treinamentos com exemplos para gerar um modelo capaz de realizar uma tarefa.

@@ -21,3 +21,5 @@ De todos os registros "positivos" quanto % foram classificados corretamente?
 ### F1
 	*formula:* 2* (Precision*Recall) / (Precision + Recall)
 Apresenta um valor alto somente se *Precision* e *Recall* forem altos.
+
+![[ArvoreDeDecisao.jpeg]]

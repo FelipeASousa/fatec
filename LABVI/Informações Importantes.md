@@ -9,6 +9,5 @@
 - Regressão (Séries Temporais)
 - Agrupamento
 
-
 - 50% Avaliação
 - 50% API

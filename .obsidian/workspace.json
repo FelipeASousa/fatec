@@ -20,15 +20,11 @@
             }
           },
           {
-            "id": "f8b05f7708ee7b0a",
+            "id": "47b76053a6b31536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LABVI/AULA 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -61,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Redes",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LABVI/AULA 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LABVI/AULA 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LABVI/AULA 3.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,31 +151,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8b05f7708ee7b0a",
+  "active": "47b76053a6b31536",
   "lastOpenFiles": [
-    "LABVI/LINKS.md",
-    "LABVI/AULA 3.md",
-    "LABVI/AULA 2.md",
-    "LABVI/Informações Importantes.md",
-    "LABVI/AULA 1.md",
-    "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
-    "Otimização e Balanceamento de BD/AULA 2.md",
-    "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
-    "Projeto de Banco de Dados Não Estruturados/LGDP - Ideias.md",
     "Projeto de Banco de Dados Não Estruturados/LGPD.md",
+    "LABVI/LINKS 2.md",
+    "LABVI/LINKS.md",
+    "LABVI/AULA 5.md",
+    "LABVI/AULA 4.md",
+    "LABVI/AULA 2.md",
+    "LABVI/AULA 3.md",
+    "BD_NaoRelacional/NoSQL/Informativo-online-CPS-14-agosto-2020.pdf",
+    "BD_NaoRelacional/NoSQL/NOSQL 2019.pdf",
+    "BD_NaoRelacional/Informações Importantes.md",
+    "BD_NaoRelacional/Aula 1 - Bancos Não Relacionais.md",
+    "LABVI/imgs/plano.jpeg",
+    "LABVI/imgs/ArvoreDeDecisao.jpeg",
+    "LABVI/imgs/RedesNeurais.jpeg",
+    "LABVI/imgs",
+    "LABVI/Nova pasta",
+    "Projeto de Banco de Dados Não Estruturados/LGDP - Ideias.md",
+    "Projeto de Banco de Dados Não Estruturados/Termos.md",
+    "Projeto de Banco de Dados Não Estruturados/Insights.md",
+    "Otimização e Balanceamento de BD/~WRL3492.tmp",
+    "Otimização e Balanceamento de BD/~WRD3488.tmp",
+    "Otimização e Balanceamento de BD/~WRD3410.tmp",
+    "Otimização e Balanceamento de BD/~$LABI.docx",
+    "LABVI/AULA 1.md",
+    "LABVI/Informações Importantes.md",
+    "Welcome.md",
+    "create a link.md",
     "Untitled.canvas",
+    "Otimização e Balanceamento de BD/AULA 2.md",
+    "Otimização e Balanceamento de BD/~WRL1584.tmp",
+    "Otimização e Balanceamento de BD/~WRD1580.tmp",
+    "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
+    "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
     "Otimização e Balanceamento de BD/AULA 1.md",
     "Otimização e Balanceamento de BD/OTIMIZAÇÃO.md",
-    "Otimização e Balanceamento de BD",
-    "LABVI",
-    "create a link.md",
-    "BD_NaoRelacional/Aula 1 - Bancos Não Relacionais.md",
-    "BD_NaoRelacional/Informações Importantes.md",
     "().md",
     "^a.md",
-    "2024-08-08.md",
-    "Projeto de Banco de Dados Não Estruturados",
-    "Welcome.md",
-    "BD_NaoRelacional"
+    "2024-08-08.md"
   ]
 }

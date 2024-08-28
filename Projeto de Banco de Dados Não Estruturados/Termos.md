@@ -1,0 +1,1 @@
+- Toda vez que houver uma alteração no termo de tratamento de dados, o usuário deverá ser notificado e deverá ser refeito o consentimento.
