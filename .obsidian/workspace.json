@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8cc1ed1bef9d137",
+            "id": "cc1fc0a66d087704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LABVI/AULA 2.md",
+                "file": "KICKOFF.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "47b76053a6b31536",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Redes",
+                "query": "tag:#IA",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KICKOFF.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KICKOFF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "KICKOFF.md"
+              }
             }
           }
         ],
@@ -151,14 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47b76053a6b31536",
+  "active": "cc1fc0a66d087704",
   "lastOpenFiles": [
-    "Projeto de Banco de Dados Não Estruturados/LGPD.md",
-    "LABVI/LINKS 2.md",
+    "Untitled.canvas",
+    "Projeto de Banco de Dados Não Estruturados/Insights.md",
+    "KICKOFF.md",
+    "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
+    "create a link.md",
+    "Projeto de Banco de Dados Não Estruturados/Termos.md",
     "LABVI/LINKS.md",
+    "LABVI/LINKS 2.md",
+    "Welcome.md",
+    "Projeto de Banco de Dados Não Estruturados/LGPD.md",
+    "Projeto de Banco de Dados Não Estruturados/LGDP - Ideias.md",
+    "LABVI/AULA 1.md",
+    "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
+    "Otimização e Balanceamento de BD/AULA 1.md",
     "LABVI/AULA 5.md",
-    "LABVI/AULA 4.md",
+    "LABVI/Informações Importantes.md",
     "LABVI/AULA 2.md",
+    "Otimização e Balanceamento de BD/~WRL3449.tmp",
+    "Otimização e Balanceamento de BD/~WRD3445.tmp",
+    "Otimização e Balanceamento de BD/~$LABI.docx",
+    "LABVI/AULA 4.md",
     "LABVI/AULA 3.md",
     "BD_NaoRelacional/NoSQL/Informativo-online-CPS-14-agosto-2020.pdf",
     "BD_NaoRelacional/NoSQL/NOSQL 2019.pdf",
@@ -169,24 +179,10 @@
     "LABVI/imgs/RedesNeurais.jpeg",
     "LABVI/imgs",
     "LABVI/Nova pasta",
-    "Projeto de Banco de Dados Não Estruturados/LGDP - Ideias.md",
-    "Projeto de Banco de Dados Não Estruturados/Termos.md",
-    "Projeto de Banco de Dados Não Estruturados/Insights.md",
     "Otimização e Balanceamento de BD/~WRL3492.tmp",
     "Otimização e Balanceamento de BD/~WRD3488.tmp",
     "Otimização e Balanceamento de BD/~WRD3410.tmp",
-    "Otimização e Balanceamento de BD/~$LABI.docx",
-    "LABVI/AULA 1.md",
-    "LABVI/Informações Importantes.md",
-    "Welcome.md",
-    "create a link.md",
-    "Untitled.canvas",
     "Otimização e Balanceamento de BD/AULA 2.md",
-    "Otimização e Balanceamento de BD/~WRL1584.tmp",
-    "Otimização e Balanceamento de BD/~WRD1580.tmp",
-    "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
-    "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
-    "Otimização e Balanceamento de BD/AULA 1.md",
     "Otimização e Balanceamento de BD/OTIMIZAÇÃO.md",
     "().md",
     "^a.md",
