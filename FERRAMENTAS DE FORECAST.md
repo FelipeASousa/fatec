@@ -1,0 +1,3 @@
+PROPHET FACEBOOK
+SKFORECAST
+ARIMA - Não trata sazionalidade
