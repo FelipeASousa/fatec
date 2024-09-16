@@ -1,4 +1,4 @@
-#IA #LABVI #Exemplo
+'#IA #LABVI #Exemplo
 #KDD
 https://colab.research.google.com/drive/1kZu_IsUhhYcJTelTme-sJbFCVYkExoKg?usp=sharing
 

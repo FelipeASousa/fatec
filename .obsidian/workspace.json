@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8cc1ed1bef9d137",
+            "id": "f2e871b3f6aa6146",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LABVI/AULA 2.md",
+                "file": "Score para Duplicatas.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "47b76053a6b31536",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 200
   },
   "right": {
     "id": "04de1b5809cca859",
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Score para Duplicatas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Score para Duplicatas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Score para Duplicatas.md"
+              }
             }
           }
         ],
@@ -139,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,33 +147,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47b76053a6b31536",
+  "active": "f2e871b3f6aa6146",
   "lastOpenFiles": [
-    "Projeto de Banco de Dados Não Estruturados/LGPD.md",
-    "LABVI/LINKS 2.md",
+    "LABVI/Estudo de Score.md",
+    "LABVI/imgs/Pasted image 20240907225056.png",
+    "LABVI/imgs/Pasted image 20240914230500.png",
+    "LABVI/imgs/Pasted image 20240914231234.png",
+    "LABVI/imgs/Pasted image 20240914234350.png",
+    "LABVI/imgs/Pasted image 20240914232458.png",
+    "Score para Duplicatas.md",
+    "LABVI/Informações Importantes.md",
+    "LABVI/imgs/RedesNeurais.jpeg",
+    "LABVI/AULA 1.md",
+    "LABVI/imgs/ArvoreDeDecisao.jpeg",
+    "LABVI/imgs/plano.jpeg",
     "LABVI/LINKS.md",
+    "ANÁLISE ESTÁTISTICA DE DADOS.md",
+    "LABVI/LINKS 2.md",
+    "API - ANALISE DE DUPLICATAS.md",
+    "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
+    "LABVI/AULA 2.md",
+    "Projeto de Banco de Dados Não Estruturados/Insights.md",
+    "Projeto de Banco de Dados Não Estruturados/LGDP - Ideias.md",
+    "Projeto de Banco de Dados Não Estruturados/Termos.md",
+    "Projeto de Banco de Dados Não Estruturados/LGPD.md",
     "LABVI/AULA 5.md",
     "LABVI/AULA 4.md",
-    "LABVI/AULA 2.md",
     "LABVI/AULA 3.md",
     "BD_NaoRelacional/NoSQL/Informativo-online-CPS-14-agosto-2020.pdf",
     "BD_NaoRelacional/NoSQL/NOSQL 2019.pdf",
     "BD_NaoRelacional/Informações Importantes.md",
     "BD_NaoRelacional/Aula 1 - Bancos Não Relacionais.md",
-    "LABVI/imgs/plano.jpeg",
-    "LABVI/imgs/ArvoreDeDecisao.jpeg",
-    "LABVI/imgs/RedesNeurais.jpeg",
     "LABVI/imgs",
     "LABVI/Nova pasta",
-    "Projeto de Banco de Dados Não Estruturados/LGDP - Ideias.md",
-    "Projeto de Banco de Dados Não Estruturados/Termos.md",
-    "Projeto de Banco de Dados Não Estruturados/Insights.md",
     "Otimização e Balanceamento de BD/~WRL3492.tmp",
     "Otimização e Balanceamento de BD/~WRD3488.tmp",
     "Otimização e Balanceamento de BD/~WRD3410.tmp",
     "Otimização e Balanceamento de BD/~$LABI.docx",
-    "LABVI/AULA 1.md",
-    "LABVI/Informações Importantes.md",
     "Welcome.md",
     "create a link.md",
     "Untitled.canvas",
@@ -185,11 +191,7 @@
     "Otimização e Balanceamento de BD/~WRL1584.tmp",
     "Otimização e Balanceamento de BD/~WRD1580.tmp",
     "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
-    "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
     "Otimização e Balanceamento de BD/AULA 1.md",
-    "Otimização e Balanceamento de BD/OTIMIZAÇÃO.md",
-    "().md",
-    "^a.md",
-    "2024-08-08.md"
+    "Otimização e Balanceamento de BD/OTIMIZAÇÃO.md"
   ]
 }
