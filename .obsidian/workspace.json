@@ -8,18 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2e871b3f6aa6146",
+            "id": "cc1fc0a66d087704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "API - ANALISE DE DUPLICATAS.md",
+=======
+                "file": "LABVI/LINKS 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c9bebcc3b59384f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINKS 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8519ec3c5a730520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+>>>>>>> refs/remotes/origin/main
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Redes",
+                "query": "tag:#IA",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 238.5
   },
   "right": {
     "id": "04de1b5809cca859",
@@ -85,7 +114,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "API - ANALISE DE DUPLICATAS.md",
+=======
+                "file": "Welcome.md",
+>>>>>>> refs/remotes/origin/main
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "API - ANALISE DE DUPLICATAS.md",
+=======
+                "file": "Welcome.md",
+>>>>>>> refs/remotes/origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "API - ANALISE DE DUPLICATAS.md"
+=======
+                "file": "Welcome.md"
+>>>>>>> refs/remotes/origin/main
               }
             }
           }
@@ -134,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +187,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2e871b3f6aa6146",
+  "active": "3440537050f5eb71",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "LABVI/LINKS.md",
     "Score para Duplicatas.md",
     "LABVI/Estudo de Score.md",
@@ -164,34 +205,53 @@
     "LABVI/imgs/plano.jpeg",
     "ANÁLISE ESTÁTISTICA DE DADOS.md",
     "LABVI/LINKS 2.md",
+=======
+    "Score para Duplicatas.md",
+    "LABVI/imgs/Pasted image 20240914234350.png",
+    "LABVI/imgs/Pasted image 20240914232458.png",
+    "LABVI/imgs/Pasted image 20240914231234.png",
+    "LABVI/imgs/Pasted image 20240914230500.png",
+    "LABVI/imgs/Pasted image 20240907225056.png",
+    "LABVI/Estudo de Score.md",
+>>>>>>> refs/remotes/origin/main
     "API - ANALISE DE DUPLICATAS.md",
-    "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
-    "LABVI/AULA 2.md",
+    "ANÁLISE ESTÁTISTICA DE DADOS.md",
+    "LABVI/Informações Importantes.md",
+    "LABVI/AULA 7.md",
+    "LABVI/LINKS 2.md",
+    "Otimização e Balanceamento de BD/AULA 1.md",
+    "FERRAMENTAS DE FORECAST.md",
+    "Otimização e Balanceamento de BD/AULA 2.md",
+    "Pasted image 20240911211506.png",
+    "LINKS 3.md",
+    "KICKOFF.md",
+    "BD_NaoRelacional/Aula 1 - Bancos Não Relacionais.md",
+    "BD_NaoRelacional/Informações Importantes.md",
+    "Untitled.canvas",
     "Projeto de Banco de Dados Não Estruturados/Insights.md",
-    "Projeto de Banco de Dados Não Estruturados/LGDP - Ideias.md",
+    "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
+    "create a link.md",
     "Projeto de Banco de Dados Não Estruturados/Termos.md",
+    "LABVI/LINKS.md",
+    "Welcome.md",
     "Projeto de Banco de Dados Não Estruturados/LGPD.md",
+    "Projeto de Banco de Dados Não Estruturados/LGDP - Ideias.md",
+    "LABVI/AULA 1.md",
+    "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
     "LABVI/AULA 5.md",
-    "LABVI/AULA 4.md",
-    "LABVI/AULA 3.md",
+    "LABVI/AULA 2.md",
+    "Otimização e Balanceamento de BD/~WRL3449.tmp",
+    "Otimização e Balanceamento de BD/~WRD3445.tmp",
+    "Otimização e Balanceamento de BD/~$LABI.docx",
     "BD_NaoRelacional/NoSQL/Informativo-online-CPS-14-agosto-2020.pdf",
     "BD_NaoRelacional/NoSQL/NOSQL 2019.pdf",
-    "BD_NaoRelacional/Informações Importantes.md",
-    "BD_NaoRelacional/Aula 1 - Bancos Não Relacionais.md",
+    "LABVI/imgs/plano.jpeg",
+    "LABVI/imgs/ArvoreDeDecisao.jpeg",
+    "LABVI/imgs/RedesNeurais.jpeg",
     "LABVI/imgs",
     "LABVI/Nova pasta",
     "Otimização e Balanceamento de BD/~WRL3492.tmp",
     "Otimização e Balanceamento de BD/~WRD3488.tmp",
-    "Otimização e Balanceamento de BD/~WRD3410.tmp",
-    "Otimização e Balanceamento de BD/~$LABI.docx",
-    "Welcome.md",
-    "create a link.md",
-    "Untitled.canvas",
-    "Otimização e Balanceamento de BD/AULA 2.md",
-    "Otimização e Balanceamento de BD/~WRL1584.tmp",
-    "Otimização e Balanceamento de BD/~WRD1580.tmp",
-    "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
-    "Otimização e Balanceamento de BD/AULA 1.md",
-    "Otimização e Balanceamento de BD/OTIMIZAÇÃO.md"
+    "Otimização e Balanceamento de BD/~WRD3410.tmp"
   ]
 }
