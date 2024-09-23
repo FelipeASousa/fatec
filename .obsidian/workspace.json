@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Score para Duplicatas.md",
+                "file": "API - ANALISE DE DUPLICATAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Score para Duplicatas.md",
+                "file": "API - ANALISE DE DUPLICATAS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Score para Duplicatas.md",
+                "file": "API - ANALISE DE DUPLICATAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Score para Duplicatas.md"
+                "file": "API - ANALISE DE DUPLICATAS.md"
               }
             }
           }
@@ -149,19 +149,19 @@
   },
   "active": "f2e871b3f6aa6146",
   "lastOpenFiles": [
+    "LABVI/LINKS.md",
+    "Score para Duplicatas.md",
     "LABVI/Estudo de Score.md",
     "LABVI/imgs/Pasted image 20240907225056.png",
     "LABVI/imgs/Pasted image 20240914230500.png",
     "LABVI/imgs/Pasted image 20240914231234.png",
     "LABVI/imgs/Pasted image 20240914234350.png",
     "LABVI/imgs/Pasted image 20240914232458.png",
-    "Score para Duplicatas.md",
     "LABVI/Informações Importantes.md",
     "LABVI/imgs/RedesNeurais.jpeg",
     "LABVI/AULA 1.md",
     "LABVI/imgs/ArvoreDeDecisao.jpeg",
     "LABVI/imgs/plano.jpeg",
-    "LABVI/LINKS.md",
     "ANÁLISE ESTÁTISTICA DE DADOS.md",
     "LABVI/LINKS 2.md",
     "API - ANALISE DE DUPLICATAS.md",
