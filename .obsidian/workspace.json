@@ -1,68 +1,51 @@
 {
   "main": {
-    "id": "ae8d6ea48225a844",
+    "id": "30e6d32b2648e6c2",
     "type": "split",
     "children": [
       {
-        "id": "3ab15b800b023d35",
+        "id": "ce93fd2acb6103fd",
         "type": "tabs",
         "children": [
           {
-            "id": "cc1fc0a66d087704",
+            "id": "72150fab51a509da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "API - ANALISE DE DUPLICATAS.md",
-=======
-                "file": "LABVI/LINKS 2.md",
+                "file": "Gabarito.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c9bebcc3b59384f",
+            "id": "9cad9f4244520df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINKS 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8519ec3c5a730520",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
->>>>>>> refs/remotes/origin/main
+                "file": "Prova.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "94ce9f351974574e",
+    "id": "991faf864106aa8a",
     "type": "split",
     "children": [
       {
-        "id": "81754956458c8718",
+        "id": "b1f01eadfec50927",
         "type": "tabs",
         "children": [
           {
-            "id": "3440537050f5eb71",
+            "id": "89b5e6620bf950bf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,13 +55,13 @@
             }
           },
           {
-            "id": "4323f4f8c82f8b2b",
+            "id": "3be175c6572c9a41",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#IA",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -87,7 +70,7 @@
             }
           },
           {
-            "id": "2851f83179d242c7",
+            "id": "b973d3ff682a56f1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,28 +81,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 300
   },
   "right": {
-    "id": "04de1b5809cca859",
+    "id": "f2129909dd82c86d",
     "type": "split",
     "children": [
       {
-        "id": "46aeb93a0029a0db",
+        "id": "3acc710a16f904a5",
         "type": "tabs",
         "children": [
           {
-            "id": "25c82d540aeb9864",
+            "id": "4e37facec4de5267",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "API - ANALISE DE DUPLICATAS.md",
-=======
-                "file": "Welcome.md",
->>>>>>> refs/remotes/origin/main
-                "collapseAll": true,
+                "file": "Gabarito.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -130,23 +109,19 @@
             }
           },
           {
-            "id": "0a9769eef528f332",
+            "id": "9e8daaf416464ac3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "API - ANALISE DE DUPLICATAS.md",
-=======
-                "file": "Welcome.md",
->>>>>>> refs/remotes/origin/main
+                "file": "Gabarito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3f497940e247f62b",
+            "id": "ff2420515abfbe1d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,101 +132,59 @@
             }
           },
           {
-            "id": "07585828aafe2fb8",
+            "id": "9b7be374b594d198",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "API - ANALISE DE DUPLICATAS.md"
-=======
-                "file": "Welcome.md"
->>>>>>> refs/remotes/origin/main
+                "file": "Gabarito.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "3440537050f5eb71",
+  "active": "72150fab51a509da",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "LABVI/LINKS.md",
-    "Score para Duplicatas.md",
-    "LABVI/Estudo de Score.md",
-    "LABVI/imgs/Pasted image 20240907225056.png",
-    "LABVI/imgs/Pasted image 20240914230500.png",
-    "LABVI/imgs/Pasted image 20240914231234.png",
-    "LABVI/imgs/Pasted image 20240914234350.png",
-    "LABVI/imgs/Pasted image 20240914232458.png",
-    "LABVI/Informações Importantes.md",
-    "LABVI/imgs/RedesNeurais.jpeg",
-    "LABVI/AULA 1.md",
-    "LABVI/imgs/ArvoreDeDecisao.jpeg",
-    "LABVI/imgs/plano.jpeg",
-    "ANÁLISE ESTÁTISTICA DE DADOS.md",
-    "LABVI/LINKS 2.md",
-=======
-    "Score para Duplicatas.md",
-    "LABVI/imgs/Pasted image 20240914234350.png",
-    "LABVI/imgs/Pasted image 20240914232458.png",
-    "LABVI/imgs/Pasted image 20240914231234.png",
-    "LABVI/imgs/Pasted image 20240914230500.png",
-    "LABVI/imgs/Pasted image 20240907225056.png",
-    "LABVI/Estudo de Score.md",
->>>>>>> refs/remotes/origin/main
-    "API - ANALISE DE DUPLICATAS.md",
-    "ANÁLISE ESTÁTISTICA DE DADOS.md",
-    "LABVI/Informações Importantes.md",
-    "LABVI/AULA 7.md",
-    "LABVI/LINKS 2.md",
-    "Otimização e Balanceamento de BD/AULA 1.md",
-    "FERRAMENTAS DE FORECAST.md",
-    "Otimização e Balanceamento de BD/AULA 2.md",
+    "API/Análise de Risco de Score.md",
+    "Prova.md",
+    "Gabarito.md",
     "Pasted image 20240911211506.png",
+    "Score para Duplicatas.md",
     "LINKS 3.md",
-    "KICKOFF.md",
-    "BD_NaoRelacional/Aula 1 - Bancos Não Relacionais.md",
-    "BD_NaoRelacional/Informações Importantes.md",
-    "Untitled.canvas",
-    "Projeto de Banco de Dados Não Estruturados/Insights.md",
-    "Projeto de Banco de Dados Não Estruturados/DICIONÁRIO.md",
-    "create a link.md",
-    "Projeto de Banco de Dados Não Estruturados/Termos.md",
-    "LABVI/LINKS.md",
-    "Welcome.md",
-    "Projeto de Banco de Dados Não Estruturados/LGPD.md",
-    "Projeto de Banco de Dados Não Estruturados/LGDP - Ideias.md",
-    "LABVI/AULA 1.md",
-    "Projeto de Banco de Dados Não Estruturados/Informações Importantes.md",
-    "LABVI/AULA 5.md",
-    "LABVI/AULA 2.md",
-    "Otimização e Balanceamento de BD/~WRL3449.tmp",
-    "Otimização e Balanceamento de BD/~WRD3445.tmp",
-    "Otimização e Balanceamento de BD/~$LABI.docx",
-    "BD_NaoRelacional/NoSQL/Informativo-online-CPS-14-agosto-2020.pdf",
-    "BD_NaoRelacional/NoSQL/NOSQL 2019.pdf",
+    "LABVI/Estudo de Score.md",
+    "LABVI/imgs/Pasted image 20240907225056.png",
+    "LABVI/imgs/Pasted image 20240914230500.png",
+    "LABVI/imgs/Pasted image 20240914231234.png",
+    "LABVI/imgs/Pasted image 20240914234350.png",
+    "LABVI/imgs/Pasted image 20240914232458.png",
+    "LABVI/imgs/RedesNeurais.jpeg",
     "LABVI/imgs/plano.jpeg",
     "LABVI/imgs/ArvoreDeDecisao.jpeg",
-    "LABVI/imgs/RedesNeurais.jpeg",
-    "LABVI/imgs",
-    "LABVI/Nova pasta",
-    "Otimização e Balanceamento de BD/~WRL3492.tmp",
-    "Otimização e Balanceamento de BD/~WRD3488.tmp",
-    "Otimização e Balanceamento de BD/~WRD3410.tmp"
+    "API - ANALISE DE DUPLICATAS.md",
+    "create a link.md",
+    "FERRAMENTAS DE FORECAST.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "KICKOFF.md",
+    "ANÁLISE ESTÁTISTICA DE DADOS.md",
+    "LABVI/LINKS 2.md",
+    "LABVI/Informações Importantes.md",
+    "LABVI/LINKS.md",
+    "API"
   ]
 }

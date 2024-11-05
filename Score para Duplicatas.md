@@ -29,6 +29,7 @@ BASE DE DADOS: Asset Trade Bills
 | **finished_at<br>**    | Data de finalização da duplicata.                   |
 | **update_reason_kind** | Motivo de cancelamento da duplicata                 |
 
+
 ## Filtros
 Coluna State: somente os tipos finished ou canceled.
 
